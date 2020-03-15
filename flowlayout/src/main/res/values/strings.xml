@@ -1,0 +1,7 @@
+<resources>
+    <!--流式布局-->
+    <string name="psts_gravity_left">left</string>
+    <string name="psts_gravity_center">center</string>
+    <string name="psts_gravity_right">right</string>
+    <!--流式布局-->
+</resources>
